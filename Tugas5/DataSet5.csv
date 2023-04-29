@@ -1,0 +1,15 @@
+Umur,Pendapatan,Mhs,Rating Kredit,Beli Komputer
+<=30,tinggi,bukan,fair,tdk
+<=30,tinggi,bukan,excelent,tdk
+31-40,tinggi,bukan,fair,ya
+>40,sedang,bukan,fair,ya
+>40,rendah,ya,fair,ya
+>40,rendah,ya,excelent,tdk
+31-40,rendah,ya,excelent,ya
+<=30,sedang,bukan,fair,tdk
+<=30,rendah,ya,fair,ya
+>40,sedang,ya,fair,ya
+<=30,sedang,ya,excelent,ya
+31-40,sedang,bukan,excelent,ya
+31-40,tinggi,ya,fair,ya
+>40,sedang,bukan,excelent,tdk
